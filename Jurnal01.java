@@ -3,6 +3,7 @@ public class Jurnal01 {
         System.out.println("Nama: Ghina Fadiyah Hr");
         System.out.println("NIM: 607062300001");
         System.out.println("Kelas: D3IF-47-01");
+        
     }
 
 }
